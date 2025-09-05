@@ -7,3 +7,4 @@ RelationShips
 
 -> LookUp relation : LookUp relation is loosely coupled.
 -> One object can be connected to other in one-to-may relation.
+-> If the parent record is deleted the child record is also deleted.

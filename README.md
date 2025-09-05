@@ -23,3 +23,14 @@ This is my learnings in salesforce.
 -> Roll-up summary fied is not availble.
 -> Parent record is not req when creating a child record.
 -> LookUp fields are not req on the page layout.
+-> Child record is not controlled by parents.
+-> You can have a child record without a parent record.
+
+2) Master Relation 
+
+-> strongly coupled.
+-> Roll-up summary fied is availble.
+-> Parent record is req when creating a child record.
+-> Master relation is req on the page layout.
+-> Child record is controlled by parents.
+-> You can not have a child record without a parent record.

@@ -46,3 +46,5 @@ This is my learnings in salesforce.
 -> The junction object record inherits the value of the owner field from the primary master object.
 -> Since the owner filed is not visible in the details side of the relationship , this inherited value is relevant if both
 the master detail relationships on junction object are deleted.
+-> In case if u delete the primary master detail relationship or convert it into lookup relationship
+then the secondary master object becomes the primary master object.

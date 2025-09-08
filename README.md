@@ -41,3 +41,8 @@ This is my learnings in salesforce.
 -> Junction objects are used to create many-to-many relation.
 -> They are created using a custom object to relate two other objects via two master-Detail RelationShips.
 -> Only two master detail relations are allowed in an object
+-> The first master detail relation u create in the Junction object becomes your primary relationship.
+-> The look an feel will be the same as your primary master master object.
+-> The junction object record inherits the value of the owner field from the primary master object.
+-> Since the owner filed is not visible in the details side of the relationship , this inherited value is relevant if both
+the master detail relationships on junction object are deleted.

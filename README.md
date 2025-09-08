@@ -34,3 +34,10 @@ This is my learnings in salesforce.
 -> Master relation is req on the page layout.
 -> Child record is controlled by parents.
 -> You can not have a child record without a parent record.
+
+
+# Junction Objects
+
+-> Junction objects are used to create many-to-many relation.
+-> They are created using a custom object to relate two other objects via two master-Detail RelationShips.
+-> Only two master detail relations are allowed in an object

@@ -48,3 +48,4 @@ This is my learnings in salesforce.
 the master detail relationships on junction object are deleted.
 -> In case if u delete the primary master detail relationship or convert it into lookup relationship
 then the secondary master object becomes the primary master object.
+-> We dont use lookup relation in junction object because there is no cascade option in lookup.

@@ -56,10 +56,22 @@ then the secondary master object becomes the primary master object.
 -> Roll-up summary is only allowed on the parent object.
 -> we perform count,sum,minimum value,maximum value of a field in the details record.
 
-# Paege Layout
+# Page Layout
 
 -> Page layout controls the presentation of fields,related lists and custom links on object record pages.
 -> They also help determine which fields are to be visisble,read-only and required.
 -> Page layout in salesforce is created with the object naeme by default.
 -> There will be one minimum page layout for every object by default.
 -> Multiple page layouts can be created to an object.
+
+# Features of Page Layout
+
+** Fields 
+
+-> You can add , remove (or) re-arrange them on a page layout.
+-> You have the option to modify field properties within the page layout. 
+
+** Buttons 
+ 
+-> You have the ability to manage which standard and custom buttons are shown.
+-> You can also configure the sequence in which custom buttons are presented.

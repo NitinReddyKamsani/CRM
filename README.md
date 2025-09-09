@@ -57,3 +57,9 @@ then the secondary master object becomes the primary master object.
 -> we perform count,sum,minimum value,maximum value of a field in the details record.
 
 # Paege Layout
+
+-> Page layout controls the presentation of fields,related lists and custom links on object record pages.
+-> They also help determine which fields are to be visisble,read-only and required.
+-> Page layout in salesforce is created with the object naeme by default.
+-> There will be one minimum page layout for every object by default.
+-> Multiple page layouts can be created to an object.

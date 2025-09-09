@@ -54,3 +54,4 @@ then the secondary master object becomes the primary master object.
 
 -> Roll-up summary can only be done in the master-detail relationship.
 -> Roll-up summary is only allowed on the parent object.
+-> we perform count,sum,minimum value,maximum value of a field in the details record.

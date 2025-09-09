@@ -75,3 +75,8 @@ then the secondary master object becomes the primary master object.
  
 -> You have the ability to manage which standard and custom buttons are shown.
 -> You can also configure the sequence in which custom buttons are presented.
+
+** Custom links
+
+-> genereates a personalized link for the object by utilizing the button,link and action functionality.
+-> you cam add these custom links to the details page of the record page layout.

@@ -78,5 +78,5 @@ then the secondary master object becomes the primary master object.
 
 ** Custom links
 
--> genereates a personalized link for the object by utilizing the button,link and action functionality.
+-> generates a personalized link for the object by utilizing the button,link and action functionality.
 -> you cam add these custom links to the details page of the record page layout.

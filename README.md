@@ -87,3 +87,8 @@ then the secondary master object becomes the primary master object.
 or different page layouts for the records in the same object.
 
 -> If you want to map the record types to the page layout we use page layout assignment.
+
+# Validation rules
+
+-> validation rules in salesforce verify that the details entered by the user meet certainc criteria before the record is
+inserted or updated.

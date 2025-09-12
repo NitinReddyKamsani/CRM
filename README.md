@@ -97,3 +97,14 @@ inserted or updated.
 
 1) Standard validation rules : these are the rules that are applied by the system for data consistency
 2) Custom validation rules : allows you to create the rules according to your business needs
+
+** Validation Rules Fields : 
+
+in order to create a validation rules some of the fields are needed to be defined
+
+i) Rule name
+ii) Active
+iii) Description
+iv) Error condition formula
+v) Error message
+vi) Error location

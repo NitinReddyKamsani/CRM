@@ -80,3 +80,10 @@ then the secondary master object becomes the primary master object.
 
 -> generates a personalized link for the object by utilizing the button,link and action functionality.
 -> you cam add these custom links to the details page of the record page layout.
+
+# Record Types
+
+-> Record type is a feature in salesforce that is used to define different picklist values,
+or different page layouts for the records in the same object.
+
+-> If you want to map the record types to the page layout we use page layout assignment.

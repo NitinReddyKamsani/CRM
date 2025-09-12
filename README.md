@@ -92,3 +92,8 @@ or different page layouts for the records in the same object.
 
 -> validation rules in salesforce verify that the details entered by the user meet certainc criteria before the record is
 inserted or updated.
+
+** Types of validation rules
+
+1) Standard validation rules : these are the rules that are applied by the system for data consistency
+2) Custom validation rules : allows you to create the rules according to your business needs

@@ -108,3 +108,8 @@ iii) Description
 iv) Error condition formula
 v) Error message
 vi) Error location
+
+# List views
+
+-> A list view is a filtered list of records where you can view records for one object at a time.
+-> If u want to add a custom list, u can click on list view controls and select new.

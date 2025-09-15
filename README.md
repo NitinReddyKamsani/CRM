@@ -116,3 +116,8 @@ vi) Error location
 -> you can add upto 15 fields in list view.
 
 # Filed dependency
+
+-> In salesforce if we select the controlling field , the other field(dependent field) should show the value those relate to the
+controlling field.
+-> For ex : if the controlling field is Technologies and the dependent field is Certifications then the Certifications should show the
+value that relate to specific Technologies.

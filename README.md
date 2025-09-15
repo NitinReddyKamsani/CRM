@@ -126,3 +126,9 @@ value that relate to specific Technologies.
 
 -> The controlling field decides the behaviour of the dependent field. 
 -> There are 3 controlling fields they are chekbox,standard picklist , custom picklist
+
+** Dependent Fields
+
+-> The dependent field shows only those values related to the controlling field, in the dependent field we can set which values
+should be displayed according to the controlling field. 
+-> There are 2 controlling fields i) custom picklist ii) multiselect picklist

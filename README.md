@@ -138,3 +138,9 @@ should be displayed according to the controlling field.
 -> we can filter the dependent values based on the values we select in the controlling field using the field dependency.
 -> It enhances the accuracy while creating the record because when we select the controlling field, then in the dependent field
 it shows only the values that are realted to the controlling field.
+
+** Considerations of field dependency
+
+-> After converting the existing field to a controlling field (or) a dependent field , it does not affect your existing records
+it will apply for new records.
+-> If you change the existing controlling field value, then the dependency field value will be lost.

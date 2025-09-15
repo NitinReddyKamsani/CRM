@@ -132,3 +132,9 @@ value that relate to specific Technologies.
 -> The dependent field shows only those values related to the controlling field, in the dependent field we can set which values
 should be displayed according to the controlling field. 
 -> There are 2 controlling fields i) custom picklist ii) multiselect picklist
+
+** Uses of field dependency 
+
+-> we can filter the dependent values based on the values we select in the controlling field using the field dependency.
+-> It enhances the accuracy while creating the record because when we select the controlling field, then in the dependent field
+it shows only the values that are realted to the controlling field.

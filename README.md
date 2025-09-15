@@ -121,3 +121,8 @@ vi) Error location
 controlling field.
 -> For ex : if the controlling field is Technologies and the dependent field is Certifications then the Certifications should show the
 value that relate to specific Technologies.
+
+** Controlling Fields
+
+-> The controlling field decides the behaviour of the dependent field. 
+-> There are 3 controlling fields they are chekbox,standard picklist , custom picklist

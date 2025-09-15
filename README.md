@@ -113,3 +113,6 @@ vi) Error location
 
 -> A list view is a filtered list of records where you can view records for one object at a time.
 -> If u want to add a custom list, u can click on list view controls and select new.
+-> you can add upto 15 fields in list view.
+
+# Filed dependency

@@ -151,3 +151,5 @@ it will apply for new records.
 giving the users what they need all in one place.
 -> You can update the app's branding , navigations and options and also the lightning pages associated with the app with the help of
 lightning app builder.
+-> Lightning app builder can be used to single page applications.
+-> Lightning app builder can be used to create dashboard style applications (like shwoing most sales) etc.

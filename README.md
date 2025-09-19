@@ -144,3 +144,8 @@ it shows only the values that are realted to the controlling field.
 -> After converting the existing field to a controlling field (or) a dependent field , it does not affect your existing records
 it will apply for new records.
 -> If you change the existing controlling field value, then the dependency field value will be lost.
+
+# Lightning App Builder 
+
+-> Lightning app buider is a point and click tool that makes it easy to create custom pages for the salesforce mobile app and 
+giving the users what they need all in one place.

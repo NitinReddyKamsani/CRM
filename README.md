@@ -149,3 +149,5 @@ it will apply for new records.
 
 -> Lightning app buider is a point and click tool that makes it easy to create custom pages for the salesforce mobile app and 
 giving the users what they need all in one place.
+-> You can update the app's branding , navigations and options and also the lightning pages associated with the app with the help of
+lightning app builder.

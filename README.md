@@ -153,3 +153,6 @@ giving the users what they need all in one place.
 lightning app builder.
 -> Lightning app builder can be used to single page applications.
 -> Lightning app builder can be used to create dashboard style applications (like shwoing most sales) etc.
+-> They can be used to build point apps for ex : expense apps that allow users to enter the price and monitor expenses they submitted.
+-> They can be used to create custom record pages for your objects.
+->  They can be used to create custom home pages containing the components and features that users mostly use.

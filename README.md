@@ -161,3 +161,8 @@ lightning app builder.
 
 -> A lightning component is a compact, configurable and reusable element that you can add to the lightning web page in a lightning app builder.
 -> Lightning pages support these components standard components , custom components and third-party components on app exchange
+-> Standard component : standard components are the components built by salesforce.
+-> Custom components : Custom components are the components that are built by you or someone else for you, you can customize these 
+to work in the lightning app builder.
+-> Third-party components : The AppExchange provides a marketplace for these lightning components you can find the pacakages that are
+already configured and ready for use.

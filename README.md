@@ -156,3 +156,7 @@ lightning app builder.
 -> They can be used to build point apps for ex : expense apps that allow users to enter the price and monitor expenses they submitted.
 -> They can be used to create custom record pages for your objects.
 ->  They can be used to create custom home pages containing the components and features that users mostly use.
+
+# Lightning components
+
+-> A lightning component is a compact, configurable and reusable element that you can add to the lightning web page in a lightning app builder.

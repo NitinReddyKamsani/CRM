@@ -160,3 +160,4 @@ lightning app builder.
 # Lightning components
 
 -> A lightning component is a compact, configurable and reusable element that you can add to the lightning web page in a lightning app builder.
+-> Lightning pages support these components standard components , custom components and third-party components on app exchange

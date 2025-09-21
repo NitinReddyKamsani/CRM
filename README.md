@@ -174,3 +174,7 @@ already configured and ready for use.
 -> Click on the new and select the home page.
 -> Choose the template and place the components and click on save.
 -> click on activate and choose apps and profile.
+
+# Dynamic forms
+
+-> 

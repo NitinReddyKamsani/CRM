@@ -177,4 +177,5 @@ already configured and ready for use.
 
 # Dynamic forms
 
--> 
+-> Dynamic forms break the record detail fields into seperate individual fields and section components that you can put
+anywhere on the page, including seperate tabs and and accordain sections.

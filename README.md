@@ -166,3 +166,11 @@ lightning app builder.
 to work in the lightning app builder.
 -> Third-party components : The AppExchange provides a marketplace for these lightning components you can find the pacakages that are
 already configured and ready for use.
+
+# Building custom home page for lightning experience
+
+-> You can build custom home pages for diff profiles.
+-> Go to setup and find the lightning app builder .
+-> Click on the new and select the home page.
+-> Choose the template and place the components and click on save.
+-> click on activate and choose apps and profile.

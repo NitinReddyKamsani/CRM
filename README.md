@@ -179,3 +179,4 @@ already configured and ready for use.
 
 -> Dynamic forms break the record detail fields into seperate individual fields and section components that you can put
 anywhere on the page, including seperate tabs and and accordain sections.
+-> You can use the visibility rules to show the end users only the fields they need to see, when they need to see.

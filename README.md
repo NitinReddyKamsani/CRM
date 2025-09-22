@@ -190,3 +190,9 @@ anywhere on the page, including seperate tabs and and accordain sections.
 
 -> Even though you broke the record detail into individual components there me still some fields which may result in perfomance issues.
 -> one way to resolve this issue is to move the low-priority fields to tabs and accordians whose content is not visible when the page loads.
+
+> steps : 
+
+1) start by optimizing the app by deleting the empty other information section.
+2) click the details tab on the canvas
+3) Hover over to the other information section and click on the delete icon.

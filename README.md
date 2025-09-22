@@ -180,3 +180,13 @@ already configured and ready for use.
 -> Dynamic forms break the record detail fields into seperate individual fields and section components that you can put
 anywhere on the page, including seperate tabs and and accordain sections.
 -> You can use the visibility rules to show the end users only the fields they need to see, when they need to see.
+
+# Uses of Dynamic forms
+
+-> Dynamic forms give you an instant upgrade from the page layout , you can place the components where ever you wish.
+-> Dynamic forms gives you visibility rules to show and hide fields and sections.
+
+# Customizing the page
+
+-> Even though you broke the record detail into individual components there me still some fields which may result in perfomance issues.
+-> onw way to resolve this issue is to move the low-priority fields to tabs and accordians whose content is not visible when the page loads

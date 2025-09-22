@@ -189,4 +189,4 @@ anywhere on the page, including seperate tabs and and accordain sections.
 # Customizing the page
 
 -> Even though you broke the record detail into individual components there me still some fields which may result in perfomance issues.
--> onw way to resolve this issue is to move the low-priority fields to tabs and accordians whose content is not visible when the page loads
+-> one way to resolve this issue is to move the low-priority fields to tabs and accordians whose content is not visible when the page loads.

@@ -201,3 +201,9 @@ anywhere on the page, including seperate tabs and and accordain sections.
 
 ** Organizational level : Organizational level is the highest level of security in salesforce. It includes maintaining a list of 
 authorized users , set password policies and limit login hours and locations.
+
+** steps to achieve security in Organizational level : 
+1) Ip restriction : allows only certain ip address.
+2) Password policies : makes the password expirwe after certain amount of time and increase the complexity of the password creation
+so that it is hard to hack.
+3) Login access : specify the users about the timing when they are allowed for logging in.

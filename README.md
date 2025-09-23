@@ -196,3 +196,5 @@ anywhere on the page, including seperate tabs and and accordain sections.
 1) start by optimizing the app by deleting the empty other information section.
 2) click the details tab on the canvas
 3) Hover over to the other information section and click on the delete icon.
+
+# Security in salesforce

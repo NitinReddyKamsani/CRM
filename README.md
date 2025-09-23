@@ -207,3 +207,8 @@ authorized users , set password policies and limit login hours and locations.
 2) Password policies : makes the password expirwe after certain amount of time and increase the complexity of the password creation
 so that it is hard to hack.
 3) Login access : specify the users about the timing when they are allowed for logging in.
+
+** Object level : Object level is used to control the data access . Using object permissions you can prevent the user from seeing,
+editing (or) deleting any instance of a pariticular object like lead (or) Opportuinity.
+
+-> Object permissions can be set in the permissions and profiles 

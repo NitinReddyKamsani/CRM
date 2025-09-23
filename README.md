@@ -198,3 +198,6 @@ anywhere on the page, including seperate tabs and and accordain sections.
 3) Hover over to the other information section and click on the delete icon.
 
 # Security in salesforce
+
+** Organizational level : Organizational level is the highest level of security in salesforce. It includes maintaining a list of 
+authorized users , set password policies and limit login hours and locations.

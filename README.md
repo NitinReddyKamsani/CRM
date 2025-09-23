@@ -210,5 +210,6 @@ so that it is hard to hack.
 
 ** Object level : Object level is used to control the data access . Using object permissions you can prevent the user from seeing,
 editing (or) deleting any instance of a pariticular object like lead (or) Opportuinity.
-
--> Object permissions can be set in the permissions and profiles 
+-> Object permissions can be set in the permissions and profiles.
+1) Permission set : a permission set is a collection of settings and permissions that give user access to various tools and functions.
+2) Profiles : a profile is a set of collection of settings and permissions that defines what a user can do in the application.

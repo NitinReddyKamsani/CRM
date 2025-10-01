@@ -213,3 +213,22 @@ editing (or) deleting any instance of a pariticular object like lead (or) Opport
 -> Object permissions can be set in the permissions and profiles.
 1) Permission set : a permission set is a collection of settings and permissions that give user access to various tools and functions.
 2) Profiles : a profile is a set of collection of settings and permissions that defines what a user can do in the application.
+
+** Field level : field level security in salesforce is congigured for the users profile . Using field level administrator can control 
+whether a user can create,see,update and delete a pariticular object field.
+
+** Record level : Record level security allows pariticular users to view an object but restricts the individual object records they are allowedto see.
+-> you can manage record level access in 4 ways.
+1) organization - wide defaults
+2) Role hierarchies
+3) Sharing rules
+4) Manual Sharing 
+
+** organization - wide defaults : owners of the record have full access to the crud operations. so if a user wants he can make the 
+object record private or public.
+
+** Role hierarchies : The higher hierarchy have the access for the records of the below users.
+
+# Control access to org
+
+** 

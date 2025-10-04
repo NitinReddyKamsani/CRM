@@ -253,3 +253,6 @@ of the password.
 
 ** Permission sets : It is used to assign object,fields and user permission to the users.Users can be assigned multiple permission sets.
 
+** Permission set groups : used to group multiple permission sets for easier management.
+
+** Profiles : used to configure user's default settings such as assigned apps,record types and page layouts.

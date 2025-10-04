@@ -232,3 +232,10 @@ object record private or public.
 # Password policies
 
 ** Setting up password policies
+
+-> you can set password and login policies such as specifying the amount of time before all the user's password expire and the complexity
+of the password.
+
+** Expire passwords
+
+-> Expire the password of all the users except for those with "Password never expire" permission.

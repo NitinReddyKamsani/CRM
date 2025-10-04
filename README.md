@@ -229,6 +229,3 @@ object record private or public.
 
 ** Role hierarchies : The higher hierarchy have the access for the records of the below users.
 
-# Control access to org
-
-** 

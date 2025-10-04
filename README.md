@@ -250,3 +250,6 @@ of the password.
 
 -> The simpliest way to control the data access is to set the permission on a pariticular object.
 -> You can control whether the user can create,read,edit or delete any records of that object.
+
+** Permission sets : It is used to assign object,fields and user permission to the users.Users can be assigned multiple permission sets.
+

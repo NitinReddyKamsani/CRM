@@ -239,3 +239,8 @@ of the password.
 ** Expire passwords
 
 -> Expire the password of all the users except for those with "Password never expire" permission.
+
+** User password reset
+
+-> Resert the password of the users.
+

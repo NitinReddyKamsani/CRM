@@ -256,3 +256,6 @@ of the password.
 ** Permission set groups : used to group multiple permission sets for easier management.
 
 ** Profiles : used to configure user's default settings such as assigned apps,record types and page layouts.
+
+# Profiles 
+

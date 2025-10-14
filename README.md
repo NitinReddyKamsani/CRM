@@ -259,3 +259,8 @@ of the password.
 
 # Profiles 
 
+-> A profile is a collection of settings and permissions that determine which data and features users can access on the platform.
+
+# Permission set
+
+-> A permission set is a collection or group of permissions that gives users access to various tools and functions like profiles.

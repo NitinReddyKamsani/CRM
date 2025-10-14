@@ -264,3 +264,4 @@ of the password.
 # Permission set
 
 -> A permission set is a collection or group of permissions that gives users access to various tools and functions like profiles.
+-> A user can have more than one permission set assigned but a user cant have more than one profile.

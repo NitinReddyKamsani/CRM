@@ -269,3 +269,4 @@ of the password.
 # Permission group 
 
 -> A permission group is a bundle of all the permission sets.
+-> 1 permission set can be included in 1 or more permission group.

@@ -1,0 +1,4 @@
+Lead Conversion in Salesforce  : 
+
+i) Lead : lead is a potential customer, individual ror representative from an organization who have shown particular interest 
+on your product or service.

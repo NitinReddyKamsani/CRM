@@ -1,4 +1,11 @@
-Lead Conversion in Salesforce  : 
+Lead Conversion in Salesforce  : Lead conversion in salesforce is a process in which a lead record is conveerted into
+accounts,contacts and opportunities.
 
 i) Lead : lead is a potential customer, individual ror representative from an organization who have shown particular interest 
 on your product or service.
+
+ii) Account : represents an organization or cokpany involved in a busniness relationship.
+
+iii) Contact : An individual associated with an account.
+
+iv) Opportunity : A sales deal with a particular account.

@@ -9,3 +9,9 @@ ii) Account : represents an organization or cokpany involved in a busniness rela
 iii) Contact : An individual associated with an account.
 
 iv) Opportunity : A sales deal with a particular account.
+
+*LIGHTNING PAGES - FLEXI PAGES
+
+i) A lightning page is a layout that lets you design pages to use it in salesforce mobile app or lightning experience.
+
+ii)

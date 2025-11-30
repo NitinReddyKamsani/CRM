@@ -17,7 +17,9 @@ ii) Custom objects : Objects created to store information unique to an organizat
 i) standard feilds ii) Custom fields
 
 > Standard fields : Standard fields are the fields which cannot be deleted
--> In standard object we can create both standard fields and custom fields.
+-> In standard object we can create custom fields.
+Note : we cant create standard objects and standard fields as they are inbuilt in salesforce.
+
 
 > Custom fields : These fields can be deleted.
 

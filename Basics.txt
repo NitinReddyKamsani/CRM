@@ -14,4 +14,14 @@ iv) Opportunity : A sales deal with a particular account.
 
 i) A lightning page is a layout that lets you design pages to use it in salesforce mobile app or lightning experience.
 
-ii)
+Types of Lightning pages
+
+i) App page
+ii) Home page
+iii) Record page
+
+App page : An app page is a static page , that you can customize and put anywhere.
+
+ii) An app page is a standalone page that can be exposed as an independent tab in the menu.
+
+iii) Steps to add App page : setup > Lightning App Builder > New > App Page

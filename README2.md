@@ -14,5 +14,10 @@ ii) Custom objects : Objects created to store information unique to an organizat
 
 * Fields 
 
+i) standard feilds ii) Custom fields
 
+> Standard fields : Standard fields are the fields which cannot be deleted
+-> In standard object we can create both standard fields and custom fields.
+
+> Custom fields : These fields can be deleted.
 

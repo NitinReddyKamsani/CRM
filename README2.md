@@ -1,25 +1,3 @@
-> Salesforce Basics(Salesforce Hulk)
+> Salesforce.com 
 
-i) In salesforce a table is called as an object (or) an entity (Table --> Object/Entity)
-ii) A Coulmn is called as fields (or) attributes (Column --> Field/attributes)
-iii) A Row is called as records(or) tuples (Row --> Tuple/Records)
-
-* Objects
-
-i) Standard Objects : These are the objects included with the salesforce by default
-
-ex : Accounts, leads or opportunities.
-
-ii) Custom objects : Objects created to store information unique to an organization.
-
-* Fields 
-
-i) standard feilds ii) Custom fields
-
-> Standard fields : Standard fields are the fields which cannot be deleted
--> In standard object we can create custom fields.
-Note : we cant create standard objects and standard fields as they are inbuilt in salesforce.
-
-
-> Custom fields : These fields can be deleted.
-
+i) Salesforce.com is a suite of CRM products that work together to make todays coorpartions work more effictively and profitably.

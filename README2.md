@@ -17,4 +17,11 @@ i) Production Environment, Development Environment , Testing Environment
 
 ** Developer Edition : Developer edition is a free fully featured instance of salesforce.com
 -> Developer edition is made free to help people who want to learn salesforce.
+
+> Limitations of Developer Edition 
+
 -> Dveloper edition has only 2 user license , meaning this Developer edition can be used only by 2 people at a time.
+-> User can store only 5mb of data.
+-> If you want to extend some functionality to a project or code which is already in the production environemnt , the whole code should
+again be copied in the Developer Edition and then we can add the extended features.
+

@@ -25,3 +25,10 @@ i) Production Environment, Development Environment , Testing Environment
 -> If you want to extend some functionality to a project or code which is already in the production environemnt , the whole code should
 again be copied in the Developer Edition and then we can add the extended features.
 
+> Sandbox (2 types : Full copy sandbox)
+
+-> Sandbox is an identical copy of production Environment.
+-> Sandbox includes 2 things i) Customizations ( configurations , meta data) ii) Data
+
+** Full copy sandbox : If all the Customizations and all the data is copied in the sandbox from the production environemnt then it is a full copy sandbox.
+** Partial copy sandbox : All the Customizations gret copied but only partial data gets copied in the partial copy sandbox.

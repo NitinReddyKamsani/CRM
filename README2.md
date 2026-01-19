@@ -6,3 +6,7 @@ i) Salesforce.com is a suite of CRM products that work together to make todays c
 
 i) Force.com is a Paas model used to develop websites on top of Salesforce.
 ii) Force.com is also used for the deployment.
+
+> Environments in Salesforce
+
+i) Production Environment, Development Environment , Testing Environment
